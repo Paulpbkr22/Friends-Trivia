@@ -1,0 +1,79 @@
+.answerChoice {
+	border: 1px solid black;
+  border-radius: 5%;
+	width: 40%;
+	color: black;
+  text-align: center;
+  margin: 10px auto;
+  font-size: 20px;
+  background-color: rgb(180, 31, 31);
+
+}
+
+.answerChoice:hover {
+  cursor: pointer;
+  background-color: purple;
+}
+
+btn:hover {
+  color: yellow;
+  cursor: pointer;
+}
+
+img {
+  max-height: 250px;
+  width: auto;
+}
+
+#answerBlock {
+  text-align: center;
+
+}
+
+#questionBlock {
+  text-align: center;
+  font-weight: bold;
+}
+
+#reset {
+  visibility: visible;
+}
+
+body {
+  background-image: url("../images/perk.jpg");
+  background-size: cover;
+}
+
+h1 {
+  text-align: center;
+  color: rgb(23, 165, 184);
+  font-weight: bolder;
+  padding: 20px;
+  font-size: 45px;
+}
+
+p {
+  margin: 10px;
+  font-weight: bold;
+  color: green;
+  font-size: 20px;
+}
+
+h2, h4 {
+  margin: 30px;
+  font-weight: bold;
+}
+
+.wrapper {
+  margin: 10px auto;
+  background-color: rgba(143, 170, 22, 0.9);
+  border: 2px solid orange;
+  height: 550px;
+  width: 60%;
+  text-align: center;
+}
+
+.btn {
+  position: relative;
+  bottom: -150px;
+}
