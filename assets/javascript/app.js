@@ -9,55 +9,55 @@ $(document).ready(function() {
         question: "Why did Monica lose weight?",
         choice: ["Her mom called her fat", "Ross called her fat", "The camera adds ten pounds", "Chandler caller her fat",],
         answer: 3,
-        pic: "/Examples/Trivia-Practice/assets/images/fat.jpg",
+        pic: "/Homework/Friends-Trivia/assets/images/fat.jpg",
     },
     {
         question: "Who did Rachel leave at the altar?",
         choice: ["Ross", "Barry", "Emily", "Obama"],
         answer: 1,
-        pic: "/Examples/Trivia-Practice/assets/images/barry.jpg",
+        pic: "/Homework/Friends-Trivia/assets/images/barry.jpg",
     },
     {
         question: "What figure was on the Geller Cup?",
         choice: ["Barbie", "G.I. Joe", "Troll Doll", "Obama"],
         answer: 2,
-        pic: "/Examples/Trivia-Practice/assets/images/gellercup.jpg",
+        pic: "/Homework/Friends-Trivia/assets/images/gellercup.jpg",
     },
     {
         question: "Who pees on Monicas' foot?",
         choice: ["Chandler", "Joey", "Bonnie", "Obama"],
         answer: 0,
-        pic: "/Examples/Trivia-Practice/assets/images/jellyfish.jpg",
+        pic: "/Homework/Friends-Trivia/assets/images/jellyfish.jpg",
     },
     {
         question: "What does the group use a bunch of to poke the ugly naked guy?",
         choice: ["Chop Sticks", "Wire", "Popsicle Sticks", "Sandwiches"],
         answer: 0,
-        pic: "/Examples/Trivia-Practice/assets/images/chopstick.jpg"
+        pic: "/Homework/Friends-Trivia/assets/images/chopstick.jpg"
     },
     {
         question: "Where does Joey hide The Shining when he gets scared?",
         choice: ["Closet", "Cabinet", "Freezer", "Foosball Table"],
         answer: 2,
-        pic: "/Examples/Trivia-Practice/assets/images/freezer.jpg"
+        pic: "/Homework/Friends-Trivia/assets/images/freezer.jpg"
     },
     {
         question: "What does Joey get Chandler for his 30th Birthday?",
         choice: ["Lemon-Lime Soda", "A hug", "A Meatball Sub", "A hooker"],
         answer: 1,
-        pic: "/Examples/Trivia-Practice/assets/images/hug.jpg"
+        pic: "/Homework/Friends-Trivia/assets/images/hug.jpg"
     },
     {
         question: "What comic book does Phoebe steal from Ross?",
         choice: ["Dinosaur-Man", "Spider-Man", "Geology Rocks!", "Science-Boy"],
         answer: 3,
-        pic: "/Examples/Trivia-Practice/assets/images/scienceboy.jpg"
+        pic: "/Homework/Friends-Trivia/assets/images/scienceboy.jpg"
     },
     {
         question: "What does Ross keep yelling when moving his couch?",
         choice: ["Turn", "Pivot", "Switch", "Rotate"],
         answer: 1,
-        pic: "/Examples/Trivia-Practice/assets/images/pivot.jpg",
+        pic: "/Homework/Friends-Trivia/assets/images/pivot.jpg",
     }];
 
 
